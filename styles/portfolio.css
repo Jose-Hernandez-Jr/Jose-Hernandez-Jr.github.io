@@ -134,11 +134,11 @@ footer {
     z-index: -1;
 }
 
-@media screen and (max-width: 576px) {
+/* @media screen and (max-width: 576px) {
     #coding_video {
         display: none;
     }
-}
+} */
 
 .Video_Text {
     background: rgba(0, 0, 0, 0.5);
