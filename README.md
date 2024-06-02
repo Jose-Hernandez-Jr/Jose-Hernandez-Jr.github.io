@@ -1,1 +1,4 @@
-# jose-hernandez-jr.github.io
+HTML and CSS Project
+
+This is my portfolio project I made with HTML and CSS.
+
